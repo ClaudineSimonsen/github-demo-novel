@@ -5,3 +5,7 @@ Nick Carraway
 Daisy Buchaman
 
 Thomas "Tom" Buchanan
+
+Myrtle Wilson
+
+George Wilson
